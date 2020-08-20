@@ -4,7 +4,7 @@ ModMail is a Discord bot which main purpose is to provide users-to-moderators pr
 This bot needs to be hosted, as it is meant for a single Discord server.
 
 ## Setup
-
+[![Run on Repl.it](https://repl.it/badge/github/juanriquel/ModMail-1)](https://repl.it/github/juanriquel/ModMail-1)
 Setting up this bot is pretty easy, just follow the steps below.
 1. Fork and clone this repo.
 2. Create a [Discord application](https://discord.com/developers/applications) and get the bot token.
